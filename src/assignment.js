@@ -79,7 +79,7 @@ return arr2};
 //console.log(celsiusToFahrenheit(target),"fahre")
 
 
-assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
